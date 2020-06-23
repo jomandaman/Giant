@@ -1,0 +1,103 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		A2F06B1923E6D4A400557A0E /* hogarth.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hogarth.PNG; sourceTree = "<group>"; };
+		A2F06B1A23E6D4A400557A0E /* arm.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arm.PNG; sourceTree = "<group>"; };
+		A2F06B1B23E6D4A400557A0E /* clouds.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clouds.PNG; sourceTree = "<group>"; };
+		A2F06B1C23E6D4A400557A0E /* body.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = body.PNG; sourceTree = "<group>"; };
+		A2F06B1D23E6D4A400557A0E /* light.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = light.PNG; sourceTree = "<group>"; };
+		A2F06B1E23E6D4A400557A0E /* moon.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon.PNG; sourceTree = "<group>"; };
+		A2F06B1F23E6D4A400557A0E /* sky.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sky.PNG; sourceTree = "<group>"; };
+		A2F06B2023E6D4A400557A0E /* trees.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = trees.PNG; sourceTree = "<group>"; };
+		A2F06B2123E6D4A400557A0E /* mask.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mask.PNG; sourceTree = "<group>"; };
+		A2F06B2223E6D4A400557A0E /* giantStyle.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = giantStyle.css; sourceTree = "<group>"; };
+		A2F06B2323E6D4A400557A0E /* Giant.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Giant.html; sourceTree = "<group>"; };
+		A2F06B2423E6D4A400557A0E /* giantScript.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = giantScript.js; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		A2F06B1123E6D47600557A0E = {
+			isa = PBXGroup;
+			children = (
+				A2F06B2323E6D4A400557A0E /* Giant.html */,
+				A2F06B2423E6D4A400557A0E /* giantScript.js */,
+				A2F06B2223E6D4A400557A0E /* giantStyle.css */,
+				A2F06B1823E6D4A400557A0E /* img */,
+			);
+			sourceTree = "<group>";
+		};
+		A2F06B1823E6D4A400557A0E /* img */ = {
+			isa = PBXGroup;
+			children = (
+				A2F06B1923E6D4A400557A0E /* hogarth.PNG */,
+				A2F06B1A23E6D4A400557A0E /* arm.PNG */,
+				A2F06B1B23E6D4A400557A0E /* clouds.PNG */,
+				A2F06B1C23E6D4A400557A0E /* body.PNG */,
+				A2F06B1D23E6D4A400557A0E /* light.PNG */,
+				A2F06B1E23E6D4A400557A0E /* moon.PNG */,
+				A2F06B1F23E6D4A400557A0E /* sky.PNG */,
+				A2F06B2023E6D4A400557A0E /* trees.PNG */,
+				A2F06B2123E6D4A400557A0E /* mask.PNG */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		A2F06B1223E6D47600557A0E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1100;
+			};
+			buildConfigurationList = A2F06B1523E6D47600557A0E /* Build configuration list for PBXProject "Giant" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A2F06B1123E6D47600557A0E;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		A2F06B1623E6D47600557A0E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		A2F06B1723E6D47600557A0E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A2F06B1523E6D47600557A0E /* Build configuration list for PBXProject "Giant" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A2F06B1623E6D47600557A0E /* Debug */,
+				A2F06B1723E6D47600557A0E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A2F06B1223E6D47600557A0E /* Project object */;
+}
